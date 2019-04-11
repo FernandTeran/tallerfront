@@ -1,3 +1,3 @@
 export default {
-    "url":"http://modulocontrol-sigap.herokuapp.com/"
+    "url":"https://modulocontrol-sigap.herokuapp.com/"
 }
